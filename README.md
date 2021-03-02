@@ -1,12 +1,8 @@
 # SYSC 3110 Project – RISK!
 # Group 10
 
-#### Hasan [@hasanissa25](https://github.com/hasanissa25) - 100921446
+#### Hasan [@hasanissa25](https://github.com/hasanissa25)
 #### John Afolayan [@John-Afolayan](https://github.com/John-Afolayan)
-#### Temitayo Adegoke 
-
-## Project Kanban
-https://github.com/hasanissa25/SYSC3110-Risk-Group10/projects/1?add_cards_query=is%3Aopen
 
 ## Project Description
 The goal of this team project is to reproduce a simplified version of the classic strategy
